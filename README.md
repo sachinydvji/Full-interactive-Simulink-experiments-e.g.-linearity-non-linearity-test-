@@ -20,7 +20,7 @@ Fill a brief description of this experiment here
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Sachin yadav | student | electronics engineering| Rajikiya Engineering Collage Kannauj | sachin26405yadav@gmail.com | .
-2 | Tarun | student | computer science | Rajikiya Engineering Collage Kannauj  |tarunnishd2003@gmail.com |
-3 | Mankesh yadav | student |  electronics engineering| Rajikiya Engineering Collage Kannauj  |yadavmankesh79@gmail.com |
-4 | Ravi maurya| student | Electronics engineering | Rajikiya Engineering Collage Kannauj  |ravimaurya767800@gmail.com |
+1 | Sachin yadav | student | electronics engineering| Rajkiya Engineering Collage Kannauj | sachin26405yadav@gmail.com | .
+2 | Tarun | student | computer science | Rajkiya Engineering Collage Kannauj  |tarunnishd2003@gmail.com |
+3 | Mankesh yadav | student |  electronics engineering| Rajkiya Engineering Collage Kannauj  |yadavmankesh79@gmail.com |
+4 | Ravi maurya| student | Electronics engineering | Rajkiya Engineering Collage Kannauj  |ravimaurya767800@gmail.com |
